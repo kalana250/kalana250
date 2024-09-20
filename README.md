@@ -10,9 +10,7 @@
 
 ## <b> 🙍‍♂️ About me </b>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="225" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<p><img align="right" height="225" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning **Pearson BTEC Higher National Diploma in Software Engineering**
@@ -29,7 +27,7 @@
 
 ## <b> 📲 Contact with me </b>
 
-<p><img align="right" height="225" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 <p align="left">
   <a href="https://linkedin.com/in/kalana-heshan" target="blank" style="margin-right: 30px;">
