@@ -91,6 +91,7 @@
 ## <b> 📄 Articles </b>
 <!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/@kalanaheshan" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png" alt="@kalanaheshan" height="40" width="40" /></a>
+<a href="https://www.blogger.com/blog/posts/2937319306523657605?pli=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/768px-Blogger_icon.svg.png?20201101140634" alt="Kalana-Heshan" height="40" width="40" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 
