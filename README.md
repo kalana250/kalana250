@@ -29,12 +29,10 @@
 
 
 
-<p align="left">
-  <a href="https://linkedin.com/in/kalana-heshan" target="blank" style="margin-right: 30px;">
-    <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="kalana-heshan" height="40" width="40" />
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/kalana-heshan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="https://www.hackerrank.com/kalana250" target="blank">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="kalana250" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalana250" height="50" width="50" />
   </a>
 </p>
 
@@ -88,9 +86,22 @@
 
 ## <b> 📄 Articles </b>
 <!-- BLOG-POST-LIST:START -->
-<a href="https://medium.com/@kalanaheshan" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png" alt="@kalanaheshan" height="40" width="40" /></a>
-<a href="https://www.blogger.com/blog/posts/2937319306523657605?pli=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/768px-Blogger_icon.svg.png?20201101140634" alt="Kalana-Heshan" height="40" width="40" /></a>
+<a href="https://medium.com/@kalanaheshan" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png" alt="@kalanaheshan" height="50" width="50" /></a>
+<a href="https://www.blogger.com/blog/posts/2937319306523657605?pli=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/768px-Blogger_icon.svg.png?20201101140634" alt="Kalana-Heshan" height="50" width="50" /></a>
 <!-- BLOG-POST-LIST:END -->
+
+
+---
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kalana-heshan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
 
 
 ---
