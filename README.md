@@ -23,6 +23,8 @@
 
 - 📫 How to reach me **heshankalana168@gmail.com**
 
+<br>  
+
 ---  
 
 ## <b> 📲 Contact with me </b>
@@ -36,19 +38,64 @@
   </a>
 </p>
 
+<br>  
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 
-
+<h3>Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,cs,javascript,typescript,html,css,angular,react,bootstrap,tailwind,spring,kafka,mysql,postgresql,mongodb,aws,git,github,postman,docker,idea,vscode,visualstudio,windows,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,cs&perline=10" />
+  </a>
+</p>
+<h3>Web Development:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&perline=10" />
+  </a>
+</p>
+<h3>Front-End Framework:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind&perline=10" />
+  </a>
+</p>
+<h3>Back-End Framework:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,kafka&perline=10" />
+  </a>
+</p>
+<h3>Database:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=14" />
+  </a>
+</p>
+<h3>IDEs:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio&perline=14" />
+  </a>
+</p>
+<h3>Operating Systems:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />
+  </a>
+</p>
+<h3>Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,github,postman,docker&perline=14" />
   </a>
 </p>
 
+<br>  
 
 ---
 
@@ -86,11 +133,14 @@
 </div>
 <!--- trophy (end) -->
 </p>
+<br>
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
+
+ <br>     
 
 ---
 
@@ -104,6 +154,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:END -->
+<br>  
 
 ---
 
