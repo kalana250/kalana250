@@ -61,13 +61,13 @@
 <h3>Front-End Framework:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind&perline=10" />
+    <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,materialui&perline=10" />
   </a>
 </p>
 <h3>Back-End Framework:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,kafka&perline=10" />
+    <img src="https://skillicons.dev/icons?i=spring,kafka,maven&perline=10" />
   </a>
 </p>
 <h3>Database:</h3>
@@ -97,7 +97,7 @@
 <h3>Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,docker,netlify,powershell&perline=14" />
   </a>
 </p>
 
@@ -156,6 +156,7 @@
 
 <p align="left">
 <a href="https://medium.com/@kalanaheshan" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png" alt="@kalanaheshan" height="50" width="50" /></a>
+<a href="https://dev.to/kalana250" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="@kalanaheshan" height="50" width="50" /></a>
 <a href="https://www.blogger.com/blog/posts/2937319306523657605?pli=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/768px-Blogger_icon.svg.png?20201101140634" alt="Kalana-Heshan" height="50" width="50" /></a> 
 </p>
 
