@@ -48,7 +48,7 @@
 
 <h3>Programming Languages:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.java.com/en/">
     <img src="https://skillicons.dev/icons?i=java,cpp,python,cs&perline=10" />
   </a>
 </p>
