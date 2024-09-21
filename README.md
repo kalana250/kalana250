@@ -48,55 +48,55 @@
 
 <h3>Programming Languages:</h3>
 <p align="left">
-  <a href="https://www.java.com/en/">
+  <a href="https://en.wikipedia.org/wiki/List_of_programming_languages">
     <img src="https://skillicons.dev/icons?i=java,cpp,python,cs&perline=10" />
   </a>
 </p>
 <h3>Web Development:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Web_development">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&perline=10" />
   </a>
 </p>
 <h3>Front-End Framework:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Front-end_web_development">
     <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,materialui&perline=10" />
   </a>
 </p>
 <h3>Back-End Framework:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Back-end_web_development">
     <img src="https://skillicons.dev/icons?i=spring,kafka,maven&perline=10" />
   </a>
 </p>
 <h3>Database:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Database">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=14" />
   </a>
 </p>
 <h3>IDEs:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">
     <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio&perline=14" />
   </a>
 </p>
 <h3>Operating Systems:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Operating_system">
     <img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />
   </a>
 </p>
 <h3>Cloud:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Cloud_computing">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=14" />
   </a>
 </p>
 <h3>Tools:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Programming_tool">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,docker,netlify,powershell&perline=14" />
   </a>
 </p>
