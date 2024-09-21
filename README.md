@@ -88,10 +88,16 @@
     <img src="https://skillicons.dev/icons?i=windows,linux&perline=14" />
   </a>
 </p>
+<h3>Cloud:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=14" />
+  </a>
+</p>
 <h3>Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,postman,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker&perline=14" />
   </a>
 </p>
 
