@@ -3,7 +3,7 @@
 <h1 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 150px height=150px>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kalana Heshan  </h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!;++;Welcome!;Software+Engineering+Student+🧑‍💻;Self-taught+Full-Stack+Developer;Active+Learner;Researcher;Love+to+learn+new+stuffs.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!;++;Welcome!;Software+Engineering+Student+🧑‍💻;Self-taught+Full-Stack+Developer;Active+Learner;Researcher;Love+to+learn+new+stuffs..+Entrepreneur"></a>
 </p>
 
 ---
