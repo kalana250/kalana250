@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://kalanaheshan.medium.com/](https://kalanaheshan.medium.com/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Flutter**
 
 - 📫 How to reach me **heshankalana168@gmail.com**
 
@@ -49,7 +49,7 @@
 <h3>Programming Languages:</h3>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/List_of_programming_languages">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,cs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,cs,dart&perline=10" />
   </a>
 </p>
 <h3>Web Development:</h3>
@@ -68,6 +68,12 @@
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Back-end_web_development">
     <img src="https://skillicons.dev/icons?i=spring,kafka,maven&perline=10" />
+  </a>
+</p>
+<h3>Mobile Application Development:</h3>
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/List_of_programming_languages">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin&perline=10" />
   </a>
 </p>
 <h3>Database:</h3>
@@ -97,7 +103,7 @@
 <h3>Tools:</h3>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Programming_tool">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,docker,netlify,powershell&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,docker,netlify,powershell,figma,firebase&perline=14" />
   </a>
 </p>
 
@@ -119,8 +125,8 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kalana250&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalana250&theme=dark&hide_border=false" /> 
-</td>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?      user=kalana250&theme=dark&hide_border=false" /> 
+  </td>
 
 <td width="50%" align="center">
 
@@ -155,8 +161,8 @@
 
 
 <p align="left">
-<a href="https://medium.com/@kalanaheshan" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png" alt="@kalanaheshan" height="50" width="50" /></a>
-<a href="https://dev.to/kalana250" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="@kalanaheshan" height="50" width="50" /></a>
+<a href="https://dev.to/kalana250" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto&perline=14"" alt="@kalanaheshan" height="50" width="50" /></a>
+
 <a href="https://www.blogger.com/blog/posts/2937319306523657605?pli=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/768px-Blogger_icon.svg.png?20201101140634" alt="Kalana-Heshan" height="50" width="50" /></a> 
 </p>
 
